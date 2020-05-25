@@ -13,3 +13,7 @@ h1 {
   font-size: 5rem;
   text-decoration: underline;
 }
+
+body {
+  background-color: deepskyblue;
+}
